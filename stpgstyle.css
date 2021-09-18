@@ -1,0 +1,31 @@
+body{
+    background-image: url('bgfinal2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    
+}
+.title{
+
+    text-align: justify;
+    font-size: 87px;
+    padding:140px;
+    font-style: oblique;
+    display: flex;
+}
+img{
+    height: 515.9px;
+    width: 500px;
+    position: absolute;
+    top: 62.2px;
+    right: 0px;
+    display: flex;
+}
+.tagline{
+    text-align: justify;
+    font-size: 30px;
+    margin-top:-130px;
+    margin-left:200px;
+    display: flex;
+}
